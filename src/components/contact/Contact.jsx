@@ -26,7 +26,7 @@ const Contact = () => {
                         <AiOutlineLinkedin className="contact_option-icon"/>
                         <h4>LinkedIn</h4>
                         <h5>Niko Varjonen</h5>
-                        <a href="">Send me a Message in LinkedIn</a>
+                        <a href="">Message in LinkedIn</a>
                     </artice>
                 </div>
                 <form action="">

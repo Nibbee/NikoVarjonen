@@ -37,7 +37,9 @@ const About = () => {
                         </artice>
                     </div>
                     <p>
-                        Hey my name is Niko Varjonen and I'm 28 years old Bachelor Student at Turku University of Applied Sciences.
+                        Hey my name is Niko Varjonen and I'm 28 years old. I'm a former chef with over 9 years of experience from the field.
+                        Currently I'm studying Business Information Technology at Turku University of Applied Sciences. 
+                    
                     </p>
                     <a href="#contact" className="btn btn-primary">Contact me</a>
                 </div>
