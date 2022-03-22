@@ -1,6 +1,10 @@
 {
   "name": "nibbee.info",
+<<<<<<< HEAD
   "homepage": "https:/nibbee.github.io",
+=======
+  "homepage": "https://nibbee.github.io",
+>>>>>>> 12760b373f218d4b61700c3a748a0bccb022d4b6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
