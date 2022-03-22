@@ -6,7 +6,7 @@ import '../../css/footer.css'
 const Footer = () => {
     return (
         <footer>
-            <a href="#" className="footer_logo">LOGO</a>
+            <a href="#" className="footer_logo">NIKO VARJONEN</a>
             <ul className="permalinks">
                 <li><a href="#">Home</a></li>
                 <li><a href="#about">About</a></li>
