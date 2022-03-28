@@ -37,9 +37,16 @@ const About = () => {
                         </artice>
                     </div>
                     <p>
-                        Hey my name is Niko Varjonen and I'm 28 years old. I'm a former chef with over 9 years of experience from the field.
-                        Currently I'm studying Business Information Technology at Turku University of Applied Sciences. 
-                    
+                        Hey my name is Niko Varjonen and I'm 28 years old. 
+                        I'm a former chef with over 9 years of experience from the field.
+                        Currently I'm studying Business Information Technology at 
+                        Turku University of Applied Sciences. 
+                    </p>
+                    <p>
+                        As an employee I am spontaneous, reliable and hard-working. My work experience
+                        in the restaurant industry has taught me resilience to pressure and customerservice. 
+                        I'm extreamly excited and motivated to learn new things and my goal is to make the most 
+                        of my studies in terms of both theoretical and practiical competence. 
                     </p>
                     <a href="#contact" className="btn btn-primary">Contact me</a>
                 </div>
