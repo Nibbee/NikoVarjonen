@@ -48,7 +48,6 @@ const About = () => {
                         I'm extreamly excited and motivated to learn new things and my goal is to make the most 
                         of my studies in terms of both theoretical and practiical competence. 
                     </p>
-                    <a href="#contact" className="btn btn-primary">Contact me</a>
                 </div>
             </div>
         </section>
