@@ -1,6 +1,6 @@
 header {
-    height: 100vh;
-    padding-top: 7rem;
+    
+    padding-top: 10rem;
     overflow: hidden; 
 }
 
@@ -29,12 +29,24 @@ header {
 }
 
 .scroll_down {
-    position: absolute;
-    right: -2.3rem;
+    width: max-content;
+    display: inline-block;
+    padding: 0.75rem 1.2rem;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid var(--color-white);
+    transition: var(--transition);
+    justify-content: center;
     bottom: 5rem;
-    transform: rotate(90deg);
-    font-weight: 300;
-    font-size: 1.2rem;
+    margin-top: 1rem;
+    background: var(--color-bg-variant);
+    color: var(--color-ehite);
+}
+
+.scroll_down:hover {
+    background: var(--color-white);
+    color: var(--color-bg-variant);
+    border-color: transparent;
 }
 
 /* ========== MEDIA QUERIES =========== */
