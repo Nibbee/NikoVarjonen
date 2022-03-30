@@ -1,7 +1,6 @@
 import React from 'react';
 import '../../css/header.css'
 import CTA from './CTA';
-import ME from '../../images/ME.png';
 
 const Header = () => {
     return(
