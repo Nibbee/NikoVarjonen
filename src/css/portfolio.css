@@ -23,9 +23,7 @@
     row-gap: 2rem;
 }
 
-.portfolio_details {
-    display: flex;
-    gap: 1rem;
+.portfolio_content a {
     text-align: center;
 }
 

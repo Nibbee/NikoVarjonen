@@ -10,36 +10,28 @@ const Portfolio = () => {
                 <div className="portfolio">
                     <h3>Blackjack game</h3>
                     <div className="portfolio_content">
-                        <article className="portfolio_details">
-                            <div>
-                                <h4>Blackjack game</h4>
-                                <a href="https://github.com/Nibbee/Blackjack">Github Link</a>
-                            </div>
-                        </article>
+                        <a href="https://github.com/Nibbee/Blackjack">Github Link</a>
                     </div>
                 </div>
 
                 <div className="portfolio">
-                    <h3>Recipe App</h3>
+                    <h3>Recipe App (Ongoing project)</h3>
                     <div className="portfolio_content">
-                        <article className="portfolio_details">
-                            <div>
-                                <h4>Recipe Application (Ongoing project)</h4>
-                                <a href="">Github Link</a>
-                            </div>
-                        </article>
+                        <a href="https://github.com/Nibbee/Recipe-App">Github Link</a>
                     </div>
                 </div>
 
                 <div className="portfolio">
                     <h3>My Personal Website</h3>
                     <div className="portfolio_content">
-                        <article className="portfolio_details">
-                            <div>
-                                <h4>My personal website</h4>
-                                <a href="">Github Link</a>
-                            </div>
-                        </article>
+                        <a href="https://github.com/Nibbee/nikovarjonen">Github Link</a> 
+                    </div>
+                </div>
+
+                <div className="portfolio">
+                    <h3>My Covid Holidays (School group project)</h3>
+                    <div className="portfolio_content">
+                        <a href="https://github.com/Nibbee/MyCovidHolidays">Github Link</a> 
                     </div>
                 </div>
             </div>

@@ -13,13 +13,12 @@ const Contact = () => {
                     <artice className="contact_option">
                         <MdOutlineEmail className="contact_option-icon"/>
                         <h4>Email</h4>
-                        <h5>varjoneniko@gmail.com</h5>
-                        <a href="mailto:varjoneniko@gmail.com">Send me an Email</a>
+                        <h5>niko.varjonen@edu.turkuamk.fi</h5>
+                        <a href="mailto:niko.varjonen@edu.turkuamk.fi">Send me an Email</a>
                     </artice>
                     <artice className="contact_option">
                         <BsWhatsapp className="contact_option-icon"/>
                         <h4>WhatsApp</h4>
-                        <h5>+Phonenumber</h5>
                         <a href="https://api.whatsapp.com/send?phone=+358405348026">Send me a Message</a>
                     </artice>
                     <artice className="contact_option">
