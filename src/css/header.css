@@ -19,10 +19,9 @@ header {
 
 .me {
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
-    height: 20rem;
+    width: 10rem;
+    height: 10rem;
     position: absolute;
-    left: calc(50% - 11rem);
     margin-top: 5rem;
     border-radius: 5rem 5rem 0 0;
     padding: 2rem 1.5rem 1.5rem 1.5rem;
@@ -61,7 +60,5 @@ header {
         height: 100vh;
     }
 
-    .scroll_down {
-        display: none;
-    }
+    
 }

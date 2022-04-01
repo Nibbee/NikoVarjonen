@@ -5,17 +5,10 @@
 }
 
 .skill_container > div {
-    background: var(--color-bg-variant);
+    background: linear-gradient(45deg, rgb(8, 8, 8), rgb(71, 70, 70));
     padding: 2.4rem 5rem;
     border-radius: 2rem;
     border: 1px solid transparent;
-    transition: var(--transition);
-}
-
-.skill_container > div:hover {
-    background: transparent;
-    border-color: var(--color-primary-variant);
-    cursor: default;
 }
 
 .skill_container > div h3 {

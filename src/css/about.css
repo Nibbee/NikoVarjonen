@@ -6,14 +6,7 @@
 
 .about_me {
     width: 100%;
-    aspect-ratio: 1/1;
     border-radius: 2rem;
-    background: linear-gradient(
-        45deg, 
-        transparent, 
-        var(--color-primary),
-        transparent
-    );
     display: grid;
     place-items: center;
 }
@@ -22,49 +15,14 @@
     aspect-ratio: 1/1;
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
-    transition: var(--transition);
-    background: linear-gradient(var(--color-light), transparent);
+    background: linear-gradient(var(--color-bg-variant), transparent);
 }
 
-.about_me-image:hover {
-    transform: rotate(0);
-}
-
-.about_cards {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
-}
-
-.about_card {
-    background: var(--color-bg-variant);
+.about_content {
+    background: linear-gradient(45deg, rgb(8, 8, 8), rgb(71, 70, 70));
+    padding: 2.4rem 5rem;
+    border-radius: 2rem;
     border: 1px solid transparent;
-    border-radius: 1rem;
-    padding: 2rem;
-    text-align: center;
-    transition: var(--transition);
-}
-
-.about_card:hover {
-    background: transparent;
-    background-color: var(--color-primary-variant);
-    cursor: default;
-}
-
-.about-icon {
-    color: var(--color-primary);
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
-}
-
-.about-card h5 {
-    font-size: 0.9rem;
-}
-
-.about-card small {
-    font-size: 0.7rem;
-    color: var(--color-light);
 }
 
 .about_content p {
@@ -90,7 +48,7 @@
 
 @media screen and (max-width: 480px){
     .about_me {
-        width: 65%;
+        width: 50%;
         margin: 0 auto 3rem;
     }
 
@@ -105,8 +63,5 @@
     .about_me-image, .about_me {
         display: none;
     }
-    
-    .scroll_down {
-        display: none;
-    }
+
 }
