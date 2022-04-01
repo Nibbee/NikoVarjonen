@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/header.css'
-import CTA from './header_buttons';
+import BTNS from './header_buttons';
 
 const Header = () => {
     return(
@@ -8,7 +8,7 @@ const Header = () => {
             <div className="container header__container">
                 <h1>NIKO VARJONEN</h1>
                 <h5 className="text-light">Business Information Technology Student </h5>
-                <CTA />
+                <BTNS />
                 <a href="#contact" className='scroll_down'>Scroll down</a>
             </div>
         </header>
