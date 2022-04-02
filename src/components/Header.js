@@ -7,7 +7,7 @@ const Header = () => {
         <header>
             <div className="container header__container">
                 <h1>NIKO VARJONEN</h1>
-                <h5 className="text-light">Business Information Technology Student </h5>
+                <h5 className="text-light">BUSINESS INFORMATION TECHNOLOGY STUDENT </h5>
                 <BTNS />
                 <a href="#contact" className='scroll_down'>Scroll down</a>
             </div>

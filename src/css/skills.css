@@ -21,11 +21,13 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     row-gap: 2rem;
+    text-align: center;
 }
 
 .skill_details {
     display: flex;
     gap: 1rem;
+    text-align: center;
 }
 
 .skill_details-icon {
