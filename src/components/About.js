@@ -1,7 +1,4 @@
 import React from "react";
-import { MdOutlineWorkOutline } from 'react-icons/md';
-import { FiUser } from 'react-icons/fi';
-import { VscFolderLibrary } from 'react-icons/vsc';
 import '../css/about.css'
 import ME from '../images/ME.png';
 
