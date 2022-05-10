@@ -24,7 +24,7 @@ const Portfolio = () => {
                 <div className="portfolio">
                     <h3>My Personal Website</h3>
                     <div className="portfolio_content">
-                        <a href="https://github.com/Nibbee/nikovarjonen">Github Link</a> 
+                        <a href="https://github.com/Nibbee/NikoVarjonen">Github Link</a> 
                     </div>
                 </div>
 
@@ -32,6 +32,13 @@ const Portfolio = () => {
                     <h3>My Covid Holidays (School group project)</h3>
                     <div className="portfolio_content">
                         <a href="https://github.com/Nibbee/MyCovidHolidays">Github Link</a> 
+                    </div>
+                </div>
+
+                <div className="portfolio">
+                    <h3>Kaggle Titanic Machine Learning (School group project)</h3>
+                    <div className="portfolio_content">
+                        <a href="https://github.com/Nibbee/Kaggle-Titanic-">Github Link</a> 
                     </div>
                 </div>
             </div>

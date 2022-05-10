@@ -23,7 +23,7 @@
 
 html {
   scroll-behavior: smooth;
-  background: black;
+  background: #fff;
 }
 
 ::-webkit-scrollbar {
@@ -35,7 +35,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.5;
-  background-image: url(../images/bg2.jpg);
+  background-color: var(--color-bg-variant);
   margin-left: 5%;
   margin-right: 5%;
 }

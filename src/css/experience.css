@@ -7,7 +7,6 @@
 .experience_container > div {
     background: linear-gradient(45deg, rgb(8, 8, 8), rgb(71, 70, 70));
     padding: 2.4rem 5rem;
-    border-radius: 2rem;
     border: 1px solid transparent;
 }
 

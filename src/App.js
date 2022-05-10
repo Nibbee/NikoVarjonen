@@ -12,8 +12,8 @@ import Portfolio from './components/Portfolio';
 const App = () => {
   return(
     <>
-      <Header />
       <Nav />
+      <Header />
       <About />
       <Experience />
       <Skills />
