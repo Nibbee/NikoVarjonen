@@ -133,6 +133,11 @@ a:hover {
     width: var(--container-width-sm);
   }
 
+  body {
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
   .section > h2 {
     margin-bottom: 6rem;
   }
