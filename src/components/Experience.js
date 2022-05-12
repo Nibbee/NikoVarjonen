@@ -13,7 +13,7 @@ const Experience = () => {
                     <div className="experience_content">
                         <h4>Job: IT Support</h4>
                         <h4>Time: 02.05.2022 -</h4>
-                        <h4>Task: IT support, customer service,</h4>
+                        <h4>Task: IT support, customer service</h4>
                     </div>
                 </div>
 
