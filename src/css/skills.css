@@ -10,7 +10,7 @@
     border: 1px solid transparent;
 }
 
-.skill_container > div h3 {
+.skill_container > div h2 {
     text-align: center;
     margin-bottom: 2rem;
     color: var(--color-primary);
