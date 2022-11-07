@@ -54,6 +54,28 @@ const Skills = () => {
                             </div>
                     </div>
                 </div>
+
+                <div className="skill_other">
+                    <h2>Other</h2>
+                    <div className="skill_content">
+                            <div>
+                                <h4>Microsoft 365</h4>
+                                <small className="text-light">Proficient</small>
+                            </div>
+                            <div>
+                                <h4>Windows Powershell</h4>
+                                <small className="text-light">Beginner</small>
+                            </div>
+                            <div>
+                                <h4>Azure Active Directory</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+                            <div>
+                                <h4>Acitve Directory</h4>
+                                <small className="text-light">Intermediate</small>
+                            </div>
+                    </div>
+            </div>
             </div>
         </section>
     )
