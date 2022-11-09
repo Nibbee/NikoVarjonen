@@ -18,7 +18,7 @@ const About = () => {
                         Hey!
                     </p>
                     <p>
-                        My name is Niko Varjonen, I'm 28 years old and I live in Turku.
+                        My name is Niko Varjonen, I'm 29 years old and I live in Turku.
                         I'm a former chef with over 9 years of experience from the field.
                         Currently I'm studying Business Information Technology at 
                         Turku University of Applied Sciences. I'm speciliazing my studies to 

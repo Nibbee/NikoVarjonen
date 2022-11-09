@@ -1,6 +1,5 @@
 import React from 'react';
 import CV from '../assets/cv.pdf';
-import ME from '../images/ME.png';
 
 const BTNS = () => {
     return(

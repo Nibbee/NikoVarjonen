@@ -1,12 +1,9 @@
-.experience_container > .experience {
-    gap: 2rem;
-}
-
-
 .experience_container {
+    display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
 }
+
 
 
 .experience_container > div {
