@@ -12,7 +12,7 @@
 }
 
 .contact_option {
-    background: linear-gradient(45deg, rgb(8, 8, 8), rgb(71, 70, 70));
+    background-color: rgb(70,70,70);
     padding: 1.2rem;
     text-align: center;
     border: 1px solid transparent;

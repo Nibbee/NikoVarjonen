@@ -1,11 +1,10 @@
 .skill_container {
     display: flex;
-    grid-template-columns: 1fr 1fr;
     gap: 2rem;
 }
 
 .skill_container > div {
-    background: linear-gradient(45deg, rgb(8, 8, 8), rgb(71, 70, 70));
+    background-color: rgb(70,70,70);
     padding: 2.4rem 5rem;
     border: 1px solid transparent;
 }
@@ -19,20 +18,21 @@
 .skill_content {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    row-gap: 2rem;
+    row-gap: 1rem;
     text-align: center;
 }
 
 
 .skill_details {
-    display: flex;
-    gap: 1rem;
+    display: grid;
+    gap: 2rem;
     text-align: center;
 }
 
 /* ========== MEDIA QUERIES =========== */
 @media screen and (max-width: 1024px) {
     .skill_container {
+        display: grid;
         grid-template-columns: 1fr;
     }
 
@@ -49,6 +49,7 @@
 
 @media screen and (max-width: 480px) {
     .skill_container {
+        display: grid;
         gap: 1rem;
     }
 
