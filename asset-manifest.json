@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NikoVarjonen/static/css/main.adc9cf94.css",
-    "main.js": "/NikoVarjonen/static/js/main.5b38dcc1.js",
+    "main.css": "/NikoVarjonen/static/css/main.e0159dfc.css",
+    "main.js": "/NikoVarjonen/static/js/main.b0cee2a9.js",
     "static/media/ME.png": "/NikoVarjonen/static/media/ME.07856b90234925e27ec8.png",
     "static/media/cv.pdf": "/NikoVarjonen/static/media/cv.b9949e532437c67e4baa.pdf",
     "index.html": "/NikoVarjonen/index.html",
-    "main.adc9cf94.css.map": "/NikoVarjonen/static/css/main.adc9cf94.css.map",
-    "main.5b38dcc1.js.map": "/NikoVarjonen/static/js/main.5b38dcc1.js.map"
+    "main.e0159dfc.css.map": "/NikoVarjonen/static/css/main.e0159dfc.css.map",
+    "main.b0cee2a9.js.map": "/NikoVarjonen/static/js/main.b0cee2a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.adc9cf94.css",
-    "static/js/main.5b38dcc1.js"
+    "static/css/main.e0159dfc.css",
+    "static/js/main.b0cee2a9.js"
   ]
 }
