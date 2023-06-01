@@ -4,12 +4,11 @@
     gap: 2rem;
 }
 
-
-
 .experience_container > div {
-    background-color: rgb(70,70,70);
-    padding: 2.4rem 5rem;
+    padding: 2.4rem 3rem;
     border: 1px solid transparent;
+    border-color: white;
+    border-radius: 1rem;
 }
 
 .experience_container > div h2 {
@@ -23,6 +22,7 @@
     grid-template-columns: 1fr;
     row-gap: 1rem;
     text-align: center;
+    
 }
 
 

@@ -8,9 +8,9 @@ const Experience = () => {
 
             <div className="container experience_container">
                 <div className="experience">
-                    <h2>Tietokeskus</h2>
+                    <h2>Tietokeskus Finland Oy</h2>
                     <div className="experience_content">
-                        <h4>IT SUPPORT SPECIALIST</h4>
+                        <h4>IT SPECIALIST</h4>
                         <h4>02.05.2022 -</h4>
                     </div>
                 </div>
