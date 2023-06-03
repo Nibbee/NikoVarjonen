@@ -1,21 +1,22 @@
 .container.contact_container {
-    width: 58%;
     display: grid;
-    grid-template-columns: 30% 50%;
-    gap: 12%;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    width: 50%;
 }
 
 .contact_options {
-    display: flex;
-    flex-direction: column;
-    gap: 1.2rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 1rem;
+    text-align: center;
 }
 
 .contact_option {
-    background-color: rgb(70,70,70);
-    padding: 1.2rem;
-    text-align: center;
+    padding: 2.4rem 3rem;
     border: 1px solid transparent;
+    border-color: white;
+    border-radius: 1rem;
 }
 
 .contact_option-icon {
@@ -29,20 +30,6 @@
     font-size: 0.8rem;
 }
 
-form {
-    display: flex;
-    flex-direction: column;
-    gap: 1.2rem;
-}
-
-input, textarea {
-    width: 100%;
-    padding: 1.5rem;
-    background: var(--color-white);
-    border: 2px solid var(--color-primary-variant);
-    resize: none;
-    color: black;
-}
 
 /* ========== MEDIA QUERIES ========= */
 @media screen and (max-width: 1024px) {

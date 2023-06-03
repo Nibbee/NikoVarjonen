@@ -28,12 +28,6 @@ const Contact = () => {
                         <a href="">Message in LinkedIn</a>
                     </artice>
                 </div>
-                <form action="">
-                    <input type="text" name="name" placeholder="Full Name" required />
-                    <input type="email" name="email" placeholder="Your Email" required />
-                    <textarea name="message" rows="7" placeholder="Your Message" required />
-                    <button type="submit" className="btn btn-primary">Send Message</button>
-                </form>
             </div>
         </section>
     )
