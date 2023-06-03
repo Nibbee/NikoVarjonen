@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NikoVarjonen/static/css/main.e0159dfc.css",
-    "main.js": "/NikoVarjonen/static/js/main.b0cee2a9.js",
+    "main.css": "/NikoVarjonen/static/css/main.fbd8c275.css",
+    "main.js": "/NikoVarjonen/static/js/main.3011f9e0.js",
     "static/media/ME.png": "/NikoVarjonen/static/media/ME.07856b90234925e27ec8.png",
-    "static/media/cv.pdf": "/NikoVarjonen/static/media/cv.b9949e532437c67e4baa.pdf",
+    "static/media/cv.pdf": "/NikoVarjonen/static/media/cv.15bd50ebf394776c90f7.pdf",
     "index.html": "/NikoVarjonen/index.html",
-    "main.e0159dfc.css.map": "/NikoVarjonen/static/css/main.e0159dfc.css.map",
-    "main.b0cee2a9.js.map": "/NikoVarjonen/static/js/main.b0cee2a9.js.map"
+    "main.fbd8c275.css.map": "/NikoVarjonen/static/css/main.fbd8c275.css.map",
+    "main.3011f9e0.js.map": "/NikoVarjonen/static/js/main.3011f9e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0159dfc.css",
-    "static/js/main.b0cee2a9.js"
+    "static/css/main.fbd8c275.css",
+    "static/js/main.3011f9e0.js"
   ]
 }
