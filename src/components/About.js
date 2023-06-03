@@ -34,7 +34,6 @@ const About = () => {
                         of my studies in terms of both theoretical and practiical competence. 
                         My hobbies include going to gym and walking outside with my dog. I also enjoy 
                         playing videogames on my spare time, especially fps games. 
-                        
                     </p>
                 </div>
             </div>
